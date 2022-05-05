@@ -1,0 +1,83 @@
+@charset "ISO-8859-1";
+
+
+	#form{
+		text-align:center;
+	    margin-left: 31%;
+	    margin-right:35%;
+	    width: 38%;
+	    border: 3px solid purple;
+ 		border-radius: 7px;
+ 		padding:4px;
+ 		font-size:15px;
+	}
+	
+	#input{
+	text-align:left;
+	margin-left:100px;
+	font-size: 15px;
+	width:130px;
+	text-align: justify;
+	}
+	lable{
+	width:34%;
+    position: absolute;
+    left: 13%;
+    text-align: right;
+    
+	}
+	#bold{
+		text-align:center;
+		font-size:50px;
+		font-weight: bold;
+		color:purple;
+		 margin:30px;
+	}
+	#tag{
+		font-size:15px;
+		font-weight: bold;
+		text-align:center;
+		background-color:purple;
+		color:white;
+	}
+	.tag{
+	font-size:10px;
+		font-weight: bold;
+		text-align:center;
+	}
+	
+	table, th, td {
+        border: 2px solid purple;
+        text-align:center;
+    }
+    th, td {
+        padding: 15px;
+        background-color:none;
+    }
+    th,h1{
+    	color:purple;
+    }
+    #h1{
+    	text-align:center;
+    	font-size:30px;
+    }
+    nav {
+    	background-color:purple ; /*Whatever color you want goes here, but in Hexadecimal form*/
+		color:white;
+	}
+    .navbar .navbar-brand {
+        color:white;
+     }
+     #navbarDarkDropdownMenuLink{
+        color:white;
+     }
+     .btn-outline-primary{
+     	margin-left:10px;
+     	
+     }
+     .btn-primary:hover {
+	  color: white;
+      border-color: #0d6efd;
+	  background-color:purple;
+	 
+	}
